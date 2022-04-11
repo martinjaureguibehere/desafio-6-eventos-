@@ -86,12 +86,19 @@ button {
 .col-sm-12 {
   padding: 5px 50px;
 }
-
+#nombre {
+  font-family: "Anton", sans-serif;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  margin-left: 105px;
+}
+#apellido {
+  font-family: "Anton", sans-serif;
+}
 .container {
   margin-top: 50px;
   margin-bottom: 125px;
 }
-
 .btn {
   background-color: firebrick;
   border: orange;
